@@ -1,0 +1,40 @@
+#result {
+    width: 400px;
+    height: 100px;
+    background-color: white;
+    position: absolute;
+    left:50px;
+    top:200px;
+    border-radius: 20%;
+    color:black;
+    font-size: 27px;
+    font:bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#resulttext {
+    color:white;
+}
+
+#ball {
+    background-color: black;
+    border-radius: 50%;
+    width: 500px;
+    height: 500px;
+}
+
+#button {
+    width: 200px;
+    height: 100px;
+    margin-top: 100px;
+    border-radius: 10%;
+    background-color: navy;
+    color: white;
+    position: relative;
+    left:150px;
+    text-align: center;
+    font-size: 40px;
+}
